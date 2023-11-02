@@ -1,5 +1,5 @@
 """
-Module to perform recursive feature elimination
+Module to perform permutation importance
 
 Author: Son Gyo Jung
 Email: sgj13@cam.ac.uk
