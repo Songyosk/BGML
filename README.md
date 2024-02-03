@@ -2,7 +2,7 @@
 
 All source code and images are associated with the paper:
 
-"Automatic Prediction of Band Gaps of Inorganic Materials using Machine Learning" 
+"Automatic Prediction of Band Gaps of Inorganic Materials Using a Gradient Boosted and Statistical Feature Selection Workflow" 
 
 By S. G. Jung, G. J & J. M. Cole
 
